@@ -1,3 +1,2 @@
 # my-repo
-![git/github](https://www.pexels.com/photo/person-standing-near-lake-670720/)
-~
+![git/github](https://i.pinimg.com/236x/f5/3e/04/f53e04ace03a426ab1205103b3123fc9.jpg)
